@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: Ignore the package-lock.json if you prefer not to track it
+# package-lock.json
+
+# Other files and directories to ignore
+.DS_Store         # macOS files
+.vscode/          # VS Code settings

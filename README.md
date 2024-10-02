@@ -6,7 +6,7 @@ The **Collaborative Task Management Tool** is a comprehensive platform designed 
 
 ## Tech Stack
 
-- **Frontend**: Next.js, React, TypeScript, Tailwind CSS, Aceternity UI
+- **Frontend**: Next.js, React, TypeScript, Tailwind CSS, Shadcn UI
 - **Backend**: Appwrite, Supabase
 - **APIs**: GraphQL, Apollo
 - **Authentication**: Clerk Auth

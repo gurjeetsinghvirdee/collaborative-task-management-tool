@@ -1,8 +1,8 @@
-# Project Management Tool
+# Collaborative Task Management Tool
 
 ## Description
 
-The **Project Management Tool** is a comprehensive platform designed for remote teams to manage tasks, track projects, meet deadlines, and facilitate team communication. It promotes collaboration and productivity by offering task assignment, project tracking, real-time communication, and recognition through rewards like badges and role advancements. Built with a modern tech stack, this tool ensures efficient project management and engagement in a distributed work environment.
+The **Collaborative Task Management Tool** is a comprehensive platform designed for remote teams to manage tasks, track projects, meet deadlines, and facilitate team communication. It promotes collaboration and productivity by offering task assignment, project tracking, real-time communication, and recognition through rewards like badges and role advancements. Built with a modern tech stack, this tool ensures efficient project management and engagement in a distributed work environment.
 
 ## Tech Stack
 
